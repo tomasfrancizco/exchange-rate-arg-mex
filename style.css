@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+#container {
+  width: 30%;
+}
+
+#title {
+  margin-top: 20px;
+}
+
+#alert {
+  margin-top: 20px;
+}
